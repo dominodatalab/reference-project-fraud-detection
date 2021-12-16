@@ -1,4 +1,6 @@
-# Pre-canned solution: Credit Card Fraud Detection
+**Disclaimer - Domino Reference Projects are starter kits built by Domino researchers. They are not supported by Domino. Once loaded, they are yours to use or modify as you see fit. We hope they will be a beneficial tool in your analytical journey.
+
+# Domino Reference Project: Credit Card Fraud Detection
 
 Credit card fraud represents a significant problem for financial institutions, and reliable fraud detection is generally challenging.
 This project can be used as a template, facilitating the training of a machine learning model on a real-world credit card fraud dataset.
